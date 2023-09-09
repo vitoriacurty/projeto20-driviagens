@@ -1,0 +1,22 @@
+{
+  "name": "projeto20-driviagens",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriacurty/projeto20-driviagens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriacurty/projeto20-driviagens/issues"
+  },
+  "homepage": "https://github.com/vitoriacurty/projeto20-driviagens#readme"
+}
